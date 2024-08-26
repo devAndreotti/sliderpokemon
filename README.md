@@ -1,17 +1,27 @@
-# 🧩 Pokémon Slider 🕹️
+# ⚡ Pokémon Slider
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/animated-burger?color=FFF&labelColor=a3544e&style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/animated-burger?color=FFF&labelColor=ead42b&style=flat-square">
   <!-- Tamanho do repositório no GitHub -->
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/animated-burger?color=FFF&labelColor=a3544e&style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/animated-burger?color=FFF&labelColor=ead42b&style=flat-square">
   <!-- Licença do GitHub -->
-  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=a3544e&style=flat-square">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=ead42b&style=flat-square">
 </p>
 
 <div align="center">
-  <img src="./slider.png" alt="Pokemon Banner"/>
+  <img src="./slider.png" alt="Pokémon Banner"/>
 </div>
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**: Estruturação do conteúdo da página.
+- **CSS3**: Estilização e design do slider.
+- **JavaScript**: Funcionalidade de navegação entre os cartões.
+
+## 🔍 Visualize o Projeto
+
+Confira o projeto online através deste [link](https://devandreotti.github.io/sliderpokemon/).
 
 ## 📁 Estrutura do Projeto
 
@@ -22,12 +32,6 @@
   - `responsivo.css`: Estilos específicos para dispositivos móveis.
 - **`src/js/index.js`**: Script JavaScript para gerenciar a navegação entre os cartões.
 - **`src/imagens/`**: Pasta com as imagens utilizadas no projeto, incluindo ícones e imagens dos Pokémon.
-
-## 🛠️ Tecnologias Utilizadas
-
-- **HTML5**: Estruturação do conteúdo da página.
-- **CSS3**: Estilização e design do slider.
-- **JavaScript**: Funcionalidade de navegação entre os cartões.
 
 ## 🚀 Como Rodar o Projeto
 
@@ -47,27 +51,16 @@
 - **Avançar**: Clique no botão com a seta para avançar para o próximo cartão de Pokémon.
 - **Voltar**: Clique no botão com a seta para voltar ao cartão anterior.
 
-### Código JavaScript
-
-- **Navegação**: Utiliza eventos de clique para alterar o cartão visível.
-  - `btnAvancar`: Avança para o próximo cartão.
-  - `btnVoltar`: Volta para o cartão anterior.
-
-### CSS
-
-- **Responsividade**: Estilos ajustam a aparência do slider para diferentes tamanhos de tela.
-- **Estilos**: Personaliza a aparência dos cartões e botões.
-
 ## 📚 Recursos Adicionais
 
+- [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 📢 Contribuições
 
 Contribuições são bem-vindas! Se você tiver sugestões ou encontrar problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## 📜 Licença
+## 📌 Nota
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é para fins educacionais e demonstra a manipulação dinâmica de estilos com CSS e JavaScript. Sinta-se livre para explorar, modificar e adaptar conforme necessário.
