@@ -31,17 +31,15 @@ Confira o projeto online através deste [link](https://devandreotti.github.io/sl
 
 ## 📁 Estrutura do Projeto
 ```
-├── index.html                              # Arquivo HTML que define a estrutura da página e inclui os elementos do slider
+├── index.html                             # Arquivo HTML que define a estrutura da página
 ├── src/                                   # Diretório principal do projeto
 │   ├── css/                               # Arquivos CSS para estilização e responsividade
 │   │   ├── reset.css                      # Estilos básicos para resetar padrões de navegador
 │   │   ├── estilos.css                    # Estilos principais do slider
-│   │   └── responsivo.css                  # Estilos específicos para dispositivos móveis
+│   │   └── responsivo.css                 # Estilos específicos para dispositivos móveis
 │   ├── js/                                # Scripts JavaScript
-│   │   └── index.js                       # Script JavaScript para gerenciar a navegação entre os cartões
-│   └── imagens/                           # Imagens utilizadas no projeto
-│       ├── icons/                         # Ícones
-│       └── pokemons/                      # Imagens dos Pokémon
+│   │   └── index.js                       # Script JavaScript para gerenciar a navegação entre cartões
+│   └── imagens/                           # Imagens utilizadas no projeto        
 └── README.md                              # Documentação do projeto
 ```
 
