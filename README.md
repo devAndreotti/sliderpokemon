@@ -1,3 +1,4 @@
+<!-- Projeto Finalizado -->
 # ⚡ Pokémon Slider
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
@@ -31,16 +32,16 @@ Confira o projeto online através deste [link](https://devandreotti.github.io/sl
 
 ## 📁 Estrutura do Projeto
 ```
-├── index.html                             # Arquivo HTML que define a estrutura da página
-├── src/                                   # Diretório principal do projeto
-│   ├── css/                               # Arquivos CSS para estilização e responsividade
-│   │   ├── reset.css                      # Estilos básicos para resetar padrões de navegador
-│   │   ├── estilos.css                    # Estilos principais do slider
-│   │   └── responsivo.css                 # Estilos específicos para dispositivos móveis
-│   ├── js/                                # Scripts JavaScript
-│   │   └── index.js                       # Script JavaScript para gerenciar a navegação entre cartões
-│   └── imagens/                           # Imagens utilizadas no projeto        
-└── README.md                              # Documentação do projeto
+├── index.html                    # Arquivo HTML que define a estrutura da página
+├── src/                          # Diretório principal do projeto
+│   ├── css/                      # Arquivos CSS para estilização e responsividade
+│   │   ├── reset.css             # Estilos básicos para resetar padrões de navegador
+│   │   ├── estilos.css           # Estilos principais do slider
+│   │   └── responsivo.css        # Estilos específicos para dispositivos móveis
+│   ├── js/                       # Scripts JavaScript
+│   │   └── index.js              # Script JavaScript para gerenciar a navegação entre cartões
+│   └── imagens/                  # Imagens utilizadas no projeto        
+└── README.md                     # Documentação do projeto
 ```
 
 ## 🚀 Como Rodar o Projeto
