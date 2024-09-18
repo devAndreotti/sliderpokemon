@@ -14,8 +14,8 @@
 </div>
 
 ## 🛠️ Tecnologias Utilizadas
-- **HTML5**: Estruturação do conteúdo da página.
-- **CSS3**: Estilização e design do slider.
+- **HTML**: Estruturação do conteúdo da página.
+- **CSS**: Estilização e design do slider.
 - **JavaScript**: Funcionalidade de navegação entre os cartões.
 
 ## 🖼️ Funcionalidade do Slider
@@ -61,3 +61,8 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
 ## 📌 Nota
 Este projeto é para fins educacionais e demonstra a manipulação dinâmica de estilos com CSS e JavaScript. Sinta-se livre para explorar, modificar e adaptar conforme necessário.
+
+<br>
+
+---
+<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
